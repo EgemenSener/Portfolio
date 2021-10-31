@@ -1,0 +1,154 @@
+
+
+
+
+
+#max-width{
+  max-width:400px; 
+  margin: 0 auto;
+  }
+  
+  body {
+    border-radius: px;
+    -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+    
+  }
+  
+  .new_button{
+    padding:10px;
+    border-radius: 50px;
+    cursor:pointer;
+    height: 60px;
+    width:60px;
+    background-color:#2b4ab7;
+  
+  
+  
+  }
+  
+  .new_button:hover{
+    padding:10px;
+    border-radius: 50px;
+    cursor:pointer;
+    height: 60px;
+    width:60px;
+    background-color:#16265f;
+  
+  
+  
+  }
+  #bildirim{
+  margin:0 auto;
+  height: auto;
+  max-width: 700px;
+  background-color:white;
+  padding: 6px;
+  border-radius: 12px;
+  display:none;
+  border-style: outset;
+  border-width: 3px;
+  border-color: #f9d616;
+  
+  }
+  #english_notification{
+  margin-left:5px;
+  display:block;
+  
+  }
+  #new_message
+  {
+    display:block;
+    color:#eab409;
+    
+    
+    }
+  
+  
+  #yeni_mesaj{
+    display:none;
+    color:#eab409;
+    
+    
+    }
+  hr {
+    
+    border-radius: 100px;
+    background-color:#eab60985;
+  
+  
+  }
+  
+  
+  div {
+    border-radius: px;
+  }
+  
+  .img-thumbnail.bg-white.border.rounded-circle.border-secondary.shadow-lg {
+  }
+  
+  body {
+  }
+  
+  .shadow-lg {
+  }
+  
+  body {
+  }
+  
+  #arkaplan {
+    background: linear-gradient(132deg,  #a856ea, #f1f532, #eab409, #f27d2e, #e33cc6 , #2b0aae);
+    background-size: 400% 400%;
+    animation: BackgroundGradient 12s ease infinite;
+    }
+  
+  @keyframes BackgroundGradient {
+    0% {background-position: 0% 50%;
+    }
+    50% {background-position: 100% 50%;
+    }
+    100% {background-position: 0% 50%;
+  }
+  
+  #arkaplan {
+    border-width: 5px;
+    border-style: solid;
+  }
+  
+  .d-flex.flex-grow-1.justify-content-center {
+  }
+  
+  body {
+    background: black;
+  }
+  
+  .clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #FFFFFF;
+    font-size: 60px;
+    
+    letter-spacing: 7px;
+   
+  #autoword{
+  display:none;
+  
+  }
+  #words {
+  
+  
+  
+  }
+  #word{
+  width: auto;
+  margin:1;
+  height: 20px;
+  
+  
+  }
